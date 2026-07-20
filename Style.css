@@ -1,0 +1,29 @@
+.container {
+    background-color:lightblue;
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    height: 650;
+}
+
+.item {
+    background-color:lavender;
+    color: lightblue;
+    font-size: 30px;
+    padding:10px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.item1  {
+    grid-column-start:1;
+    grid-column-end:3;
+    color:lavenderblush;
+}
+
+.item6 {
+    grid-row-start:2;
+    grid-row-end:4;
+    grid-column-start:3;
+    grid-column-end:4;
+}
