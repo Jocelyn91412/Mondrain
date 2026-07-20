@@ -16,7 +16,7 @@
 .item1  {
     grid-column-start: 1;
     grid-column-end: 3;
-    color:#FCE2E3;
+    background-color:#FCE2E3;
 }
 
 .item6 {
@@ -24,48 +24,48 @@
     grid-row-end: 4;
     grid-column-start: 3;
     grid-column-end: 4;
-    color:#FBF4D8;
+   background-color:#FBF4D8;
 }
 
 .item8 {
     grid-row-start: 3;
     grid-row-end: 4;
-    color:#CFD4C5;
+    background-color:#CFD4C5;
 }
 
 .item2 {
-    color:#E2ECE9;
+    background-color:#E2ECE9;
 }
 
 .item10 {
-    color:#E5E4F2;
+    background-color:#E5E4F2;
 
 }
 
 .item5 {
-    color:#E8D9E7;
+    background-color:#E8D9E7;
 }
 
 .item3 {
-    color:#FCD6CF;
+    background-color:#FCD6CF;
 }
 
 .item9 {
-    color:#F9DCC4;
+    background-color:#F9DCC4;
 }
 
 .item12 {
-    color:#C5DEF2;
+    background-color:#C5DEF2;
 }
 
 .item4 {
-    color:#DEE8C8;
+    background-color:#DEE8C8;
 }
 
 .item7 {
-    color:#C5DAD0
+    background-color:#C5DAD0
 }
 
 .item11 {
-    color:#E9DEE0;
+    background-color:#E9DEE0;
 }
