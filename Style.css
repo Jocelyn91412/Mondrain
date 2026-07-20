@@ -1,5 +1,5 @@
 .container {
-    background-color:lightblue;
+    background-color:#E5EBF1;
     display:grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
@@ -7,8 +7,6 @@
 }
 
 .item {
-    background-color:lavender;
-    color: lightblue;
     font-size: 30px;
     padding:10px;
     text-align: center;
@@ -18,7 +16,7 @@
 .item1  {
     grid-column-start: 1;
     grid-column-end: 3;
-    color:lavenderblush;
+    color:#FCE2E3;
 }
 
 .item6 {
@@ -26,9 +24,48 @@
     grid-row-end: 4;
     grid-column-start: 3;
     grid-column-end: 4;
+    color:#FBF4D8;
 }
 
 .item8 {
     grid-row-start: 3;
     grid-row-end: 4;
+    color:#CFD4C5;
+}
+
+.item2 {
+    color:#E2ECE9;
+}
+
+.item10 {
+    color:#E5E4F2;
+
+}
+
+.item5 {
+    color:#E8D9E7;
+}
+
+.item3 {
+    color:#FCD6CF;
+}
+
+.item9 {
+    color:#F9DCC4;
+}
+
+.item12 {
+    color:#C5DEF2;
+}
+
+.item4 {
+    color:#DEE8C8;
+}
+
+.item7 {
+    color:#C5DAD0
+}
+
+.item11 {
+    color:#E9DEE0;
 }
